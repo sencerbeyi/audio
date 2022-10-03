@@ -3,7 +3,8 @@
   "latestVersionCode": 6,
   "url": "https://app.audiumusic.com/android/app-release.apk",
   "releaseNotes": [
-    "- First evolution",
-    "- Bug fixes"
+    "- Düzeltmeler",
+    "- Performans iyileştirmeler",
+    "- Otomatik güncelleme eklendi "
   ]
 }
